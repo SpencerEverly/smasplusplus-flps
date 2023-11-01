@@ -1,0 +1,45 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;           Instruments              ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+"Music Box.brr" $8F $EF $7F $03 $C3
+"Kalimba.brr" $FF $E0 $7F $03 $C5
+"Flute.brr" $FF $E0 $7F $04 $01
+"Finger Bass.brr" $FF $EC $7F $04 $FF
+"Sawtooth.brr" $FF $E0 $B8 $03 $00
+"Strings.brr" $FF $E0 $B8 $05 $37
+"Pizzicato.brr" $FF $F6 $B8 $03 $03
+"Vibraphone.brr" $FF $F6 $B8 $03 $FF
+"Oboe.brr" $FF $E2 $B8 $03 $00
+"Brass Synth.brr" $FF $E0 $B8 $03 $74
+"Piccolo.brr" $8D $E0 $B8 $03 $00
+"Acoustic Guitar.brr" $FE $F3 $B8 $04 $FF
+"Drawbar Organ.brr" $FF $E0 $B8 $03 $00
+"Clarinet.brr" $FF $EB $B8 $01 $00
+"Brass Section.brr" $FF $E0 $B8 $03 $00
+"Octave Guitar.brr" $FF $E0 $B8 $07 $03
+"Chorded Steel Guitar.brr" $FF $E0 $B8 $0A $12
+"Overdriven Guitar.brr" $FF $E0 $B8 $01 $C7
+"Low Strings.brr" $FF $E7 $B8 $0E $FF
+"Tubular Bell.brr" $FF $EC $B8 $04 $41
+"Short Pizzicato.brr" $FF $F0 $B8 $02 $00
+"Piano.brr" $FF $F0 $B8 $03 $BD
+"French Horn.brr" $FF $E0 $B8 $07 $03
+"Timpani.brr" $FF $E0 $B8 $08 $E8
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;           Percussion               ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Note: All Percussion Samples should use C
+as the standard note, except for samples
+which generally use multiple tones.
+
+"Shaker.brr" $FF $E0 $B8 $0A $3C
+"Bongo.brr" $FF $E0 $B8 $0A $3C
+"Closed Hi-Hat.brr" $FF $E0 $00 $03 $FD
+"Open Hi-Hat.brr" $FF $E0 $00 $03 $C8
+"Kick.brr" $FF $E0 $B8 $03 $B2
+"Agogo.brr" $FF $E0 $B8 $04 $00
+"Crash Cymbal.brr" $FF $E0 $B8 $04 $86
+

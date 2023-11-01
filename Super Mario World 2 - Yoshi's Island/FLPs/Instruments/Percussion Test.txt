@@ -1,0 +1,31 @@
+#amk 2
+#path "Yoshi's Island BRR Samples"
+#samples
+{
+"Shaker.brr"
+"Bongo.brr"
+"Closed Hi-Hat.brr"
+"Open Hi-Hat.brr"
+"Kick.brr"
+"Agogo.brr"
+"Crash Cymbal.brr"
+}
+#instruments
+{
+"Shaker.brr" $FF $E0 $B8 $0A $3C ;@30
+"Bongo.brr" $FF $E0 $B8 $0A $3C ;@31
+"Closed Hi-Hat.brr" $FF $E0 $00 $03 $FD ;@32
+"Open Hi-Hat.brr" $FF $E0 $00 $03 $C8 ;@33
+"Kick.brr" $FF $E0 $B8 $03 $B2 ;@34
+"Agogo.brr" $FF $E0 $B8 $04 $00 ;@35
+"Crash Cymbal.brr" $FF $E0 $B8 $04 $86 ;@36
+}
+
+#0 w255 t60 @30 o4 v160 l4
+(0)[cccc]
+o2@31(1)[c>c>c>c]
+@32(0)
+@33(0)
+@34(0)
+@35(1)
+@36(0)

@@ -1,0 +1,83 @@
+#amk 2
+#path "Yoshi's Island BRR Samples"
+#samples
+{
+"Music Box.brr"
+"Kalimba.brr"
+"Flute.brr"
+"Finger Bass.brr"
+"Sawtooth.brr"
+"Strings.brr"
+"Pizzicato.brr"
+"Vibraphone.brr"
+"Oboe.brr"
+"Brass Synth.brr"
+"Piccolo.brr"
+"Acoustic Guitar.brr"
+"Drawbar Organ.brr"
+"Clarinet.brr"
+"Brass Section.brr"
+"Octave Guitar.brr"
+"Chorded Steel Guitar.brr"
+"Overdriven Guitar.brr"
+"Low Strings.brr"
+"Tubular Bell.brr"
+"Short Pizzicato.brr"
+"Piano.brr"
+"French Horn.brr"
+"Timpani.brr"
+}
+#instruments
+{
+"Music Box.brr" $8F $EF $7F $03 $C3 ;@30
+"Kalimba.brr" $FF $E0 $7F $03 $C5 ;@31
+"Flute.brr" $FF $E0 $7F $04 $01 ;@32
+"Finger Bass.brr" $FF $EC $7F $04 $FF ;@33
+"Sawtooth.brr" $FF $E0 $B8 $03 $00 ;@34
+"Strings.brr" $FF $E0 $B8 $05 $37 ;@35
+"Pizzicato.brr" $FF $F6 $B8 $03 $03 ;@36
+"Vibraphone.brr" $FF $F6 $B8 $03 $FF ;@37
+"Oboe.brr" $FF $E2 $B8 $03 $00 ;@38
+"Brass Synth.brr" $FF $E0 $B8 $03 $74 ;@39
+"Piccolo.brr" $8D $E0 $B8 $03 $00 ;@40
+"Acoustic Guitar.brr" $FE $F3 $B8 $04 $FF ;@41
+"Drawbar Organ.brr" $FF $E0 $B8 $03 $00 ;@42
+"Clarinet.brr" $FF $EB $B8 $01 $00 ;@43
+"Brass Section.brr" $FF $E0 $B8 $03 $00 ;@44
+"Octave Guitar.brr" $FF $E0 $B8 $07 $03 ;@45
+"Chorded Steel Guitar.brr" $FF $E0 $B8 $0A $12 ;@46
+"Overdriven Guitar.brr" $FF $E0 $B8 $01 $C7 ;@47
+"Low Strings.brr" $FF $E7 $B8 $0E $FF ;@48
+"Tubular Bell.brr" $FF $EC $B8 $04 $41 ;@49
+"Short Pizzicato.brr" $FF $F0 $B8 $02 $00 ;@50
+"Piano.brr" $FF $F0 $B8 $03 $BD ;@51
+"French Horn.brr" $FF $E0 $B8 $07 $03 ;@52
+"Timpani.brr" $FF $E0 $B8 $08 $E8 ;@53
+}
+
+#0 w255 t60 @30 o2 v160 l4
+(0)[c>c>c>c>c]
+@31v180(0)
+@32v130(0)
+@33v180(0)
+@34(0)
+@35v140(0)
+@36v180(0)
+@37(0)
+@38v140(0)
+@39v180(0)
+@40(0)
+@41(0)
+@42v140(0)
+@43v200(0)
+@44v150(0)
+@45v150(0)
+@46v170(0)
+@47v150(0)
+@48v150(0)
+@49v150(0)
+@50v150(0)
+@51v180(0)
+@52(0)
+@53(0)
+r2
